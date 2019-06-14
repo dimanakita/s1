@@ -1,0 +1,20 @@
+{
+    "name": "1st-cbs/strange-angel-season-2-episode-1-full-tv",
+    "description": "Watch Strange Angel Season 2 Episode 1 Online for Free Putlocker S02E01 WATCH FULL EPISODES NOW (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["Strange Angel Season 2 Episode 1 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/3dBohrNULx",
+            "homepage": "https://t.co/3dBohrNULx",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
